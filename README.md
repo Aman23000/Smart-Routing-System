@@ -1,18 +1,6 @@
-
-| CS-665       | Software Design & Patterns |
-|--------------|----------------------------|
-| Name         | Aman Jain                  |
-| Date         | 10/20/2024                 |
-| Course       | Fall 2024                  |
-| Assignment # | 3                          |
-
-# Assignment Overview
 The objective of this assignment is to design and implement an automated email generation system for various customer segments at TechSolve Innovations. The system uses the Template Method design pattern to generate customized email content for different types of customers. Each customer type has unique email content, while the overall structure remains consistent. The system is flexible, maintainable, and easy to extend for future customer types.
 
 This project also includes unit tests using JUnit, follows coding standards with Checkstyle, and ensures code quality using SpotBugs for static analysis.
-
-# GitHub Repository Link:
-https://github.com/Aman23000/SDP_Assignment_3.git
 
 # Implementation Description 
 
